@@ -1,1 +1,3 @@
-<script src="program.js"></script>
+const mainFunction = require('./app/program');
+
+mainFunction.funct();
